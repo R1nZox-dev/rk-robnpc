@@ -1,5 +1,6 @@
 # NPC Rob
 it may have some Uncertain codes cause its my second script but Surely no error no bugs full optimized
+[note] : i don't Authorise selling the script don't be trash mf 
 if u have any issue qst me on my discord it may have some error since i wasn't realy focused on it 
 hello dear friends soo this is my 2nd script umm if u have any issue just click on the link below to join my discord (no support since i am to busy)
 - featurs 
