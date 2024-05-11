@@ -37,7 +37,7 @@ trojan_usb = { name = 'trojan_usb'}
 
 [Discord](https://discord.gg/ZKqYYAQGCb)
 # Depedency
-1. [qb-core]
+1. [qb-core](https://github.com/qbcore-framework/qb-core)
 2. [qb-radialmenu](https://github.com/qbcore-framework/qb-radialmenu)
 3. [ps-dipatch](https://github.com/Project-Sloth/ps-dispatch) FOR THE ALERTS
 # Installation
