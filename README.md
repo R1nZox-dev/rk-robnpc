@@ -79,5 +79,5 @@ exports('Robnpc', Robnpc)
             },
 ```
 like that 
-![image]("https://github.com/R1nZox-dev/rk-robnpc/blob/main/img.png")
+[image](https://github.com/R1nZox-dev/rk-robnpc/blob/main/img.png)
 * do not change the folder name or the events name it will cause u some error if u are not a good dev 
