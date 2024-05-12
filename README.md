@@ -26,7 +26,7 @@ Config.peds = { -- soo here you'll need to put the peds model not the hash key a
     1669696074,
     810804565,
 }
-Config.MaxAmount = 5 -- max ammount of all the items 
+Config.MaxAmount = 5 -- total amount of the given items
 Config.items = { -- 
 lockpick = { name = 'lockpick' },
 trojan_usb = { name = 'trojan_usb'}
