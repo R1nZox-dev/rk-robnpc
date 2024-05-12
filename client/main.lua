@@ -65,7 +65,7 @@ function ExcuteRobbing(closestPed)
         Citizen.Wait(100)
     end
     exports['ps-dispatch']:Robnpc()
-    QBCore.Functions.Progressbar("robing", "robbing", '10000', false, false, {
+    QBCore.Functions.Progressbar("robing", "robbing", Config.RobAnimationSeconds, false, false, {
         disableMovement = true,
         disableCarMovement = true,
         disableMouse = false,
