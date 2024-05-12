@@ -38,6 +38,8 @@ trojan_usb = { name = 'trojan_usb'}
 [Discord](https://discord.gg/ZKqYYAQGCb)
 ## Preview 
 [PedCombat](https://streamable.com/f8bjcm)
+[robbing-alert-fleetask](https://streamable.com/j2lklm)
+[couldown](https://streamable.com/2nkslw)
 # Depedency
 1. [qb-core](https://github.com/qbcore-framework/qb-core)
 2. [qb-radialmenu](https://github.com/qbcore-framework/qb-radialmenu)
