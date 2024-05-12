@@ -81,7 +81,6 @@ function ExcuteRobbing(closestPed)
     TaskPlayAnim(closestPed, dict, 'handsup_standing_base', 8.0, -8, .01, 49, 0, 0, 0, 0)
     Citizen.Wait(Config.RobAnimationSeconds)
     local success = math.random(1, 100)
-    print(success)
     if success <= Config.chance then
         QBCore.Functions.TriggerCallback('rk-robnpc:server:giveMoney', function(amount)
             FreezeEntityPosition(closestPed, false)
