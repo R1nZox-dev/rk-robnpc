@@ -36,6 +36,8 @@ trojan_usb = { name = 'trojan_usb'}
 * money to give randomly 
 
 [Discord](https://discord.gg/ZKqYYAQGCb)
+## Preview 
+[PedCombat](https://streamable.com/f8bjcm)
 # Depedency
 1. [qb-core](https://github.com/qbcore-framework/qb-core)
 2. [qb-radialmenu](https://github.com/qbcore-framework/qb-radialmenu)
