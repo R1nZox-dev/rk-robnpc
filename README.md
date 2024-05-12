@@ -1,9 +1,8 @@
 # NPC Rob
 it may have some Uncertain codes cause its my second script but Surely no error no bugs full optimized
-[note] : i don't Authorise selling the script don't be trash mf 
-if u have any issue qst me on my discord it may have some error since i wasn't realy focused on it 
-hello dear friends soo this is my 2nd script umm if u have any issue just click on the link below to join my discord (no support since i am to busy)
-- featurs 
+- [note] : i don't Authorise selling the script don't be trash  
+- if u have any [issue](https://github.com/R1nZox-dev/rk-robnpc/issues) pull it right here and i'll try to respond soon as possible 
+# Featurs
 * robbing a citizen (NPCs)
 * configurable and open source
 * chance to have nothing on pockets 
@@ -11,6 +10,7 @@ hello dear friends soo this is my 2nd script umm if u have any issue just click 
 * possible gunfight with certin peds (configurable)
 * couldown Between robbery 
 * random items and the amount of total items given configurable 
+* must be armed else the citizen (npc) won't be scared 
 ```lua
 Config = {}
 
