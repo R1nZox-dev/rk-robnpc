@@ -35,6 +35,8 @@ RegisterNetEvent('rk-robnpc:client:robnpc', function()
                         local pedhash = GetEntityModel(closestPed)
                         if Pedrobed == pedhash then
                             QBCore.Functions.Notify("you don't remember u already robbed me", 'error')
+                            ClearPedTasksImmediately(pedhash)
+                            TaskSmartFleePed(pedhash, PlayerPed, 600.0, -1)
                         else
                             local bped = blacklistped(pedhash)
                             if not bped then
